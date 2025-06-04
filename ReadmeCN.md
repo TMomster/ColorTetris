@@ -1,4 +1,4 @@
-# TetrisGame 中文版文档
+# ColorTetris 中文版文档
 
 ---
 
