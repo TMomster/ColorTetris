@@ -1,4 +1,4 @@
-# TetrisGame
+# ColorTetris
 
 ---
 
